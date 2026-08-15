@@ -30,7 +30,7 @@
 
 ## 🌐 Connect with me
 - Portfolio : [mahamat-web.vercel.app](https://mahamat-web.vercel.app)  
-- LinkedIn : https://www.linkedin.com/in/haroun-haroun-mahmat-1885711aa/
+- LinkedIn : https://www.linkedin.com/in/haroun-haroun-mahamat-1885711aa/
 - Email : harounm087@gmail.com
 
 ---

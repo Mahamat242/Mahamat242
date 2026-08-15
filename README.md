@@ -24,7 +24,8 @@
 ## 📈 Stats GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mahamat242&show_icons=true&theme=radical)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamat242&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahamat242&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahamat242&theme=radical)  
+![Visitors](https://komarev.com/ghpvc/?username=Mahamat242&color=blue)
 
 ---
 

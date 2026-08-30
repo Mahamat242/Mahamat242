@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c’est Haroun (Mahamat242)
+# 👋 Salut, moi c’est Haroun Mahamat
 
 🎓 **Étudiant en Informatique à l’UCAD (Dakar, Sénégal)**  
 💻 **Développeur Full-Stack** | J'aime concevoir des APIs, des applications web et mobile...
